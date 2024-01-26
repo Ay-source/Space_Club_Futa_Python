@@ -1,7 +1,6 @@
 # FUTA SPACE CLUB PYTHON TUTORIAL
 
 # WhatsApp Sessions
----
 Week 2:
 ---
 1. Variables and Data Types In Python
