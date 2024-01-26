@@ -13,6 +13,7 @@ Live Session 1:
 Link To Code [Here](./Live%20Session/1/)
 1. Variables and Data Types In Python
 2. Operators In Python
+
 - Arithmetic Operators
 - Comparison Operators
 - Logical Operators
